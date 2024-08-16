@@ -1,3 +1,0 @@
-/home/borella/Desktop/MPCC_fullsize/CMakeFiles/MPCC.dir
-/home/borella/Desktop/MPCC_fullsize/CMakeFiles/edit_cache.dir
-/home/borella/Desktop/MPCC_fullsize/CMakeFiles/rebuild_cache.dir
